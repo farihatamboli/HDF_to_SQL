@@ -14,7 +14,7 @@ import mysql.connector
 #from mysql.connector import errorcode
 config = {
     'user': 'root',
-    'password': 'BrynMawr',
+    'password': '*****',
     'host': '127.0.0.1',
     'database': 'orbitdata',
     #'raise_on_warnings': True,
