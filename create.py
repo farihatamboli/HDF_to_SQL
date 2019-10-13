@@ -11,7 +11,7 @@ import mysql.connector
 from mysql.connector import errorcode
 config = {
     'user': 'root',
-    'password': 'BrynMawr',
+    'password': '*****',
     'host': '127.0.0.1',
     'database': 'sys',
     #'raise_on_warnings': True,
@@ -22,7 +22,7 @@ cursor = cnx.cursor()
 def _connect():
     config = {
         'user': 'root',
-        'password': 'BrynMawr',
+        'password': '*****',
         'host': '127.0.0.1',
         'database': 'sys',
         #'raise_on_warnings': True,
